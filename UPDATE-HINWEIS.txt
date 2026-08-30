@@ -1,0 +1,20 @@
+SL-Unternehmensgruppe - GitHub Pages Update
+
+WICHTIG:
+1. Den Inhalt dieses ZIP-Archivs entpacken.
+2. ALLE Dateien und den kompletten Ordner "assets" in das GitHub-Repository hochladen.
+3. Vorhandene HTML-Dateien ersetzen.
+4. Die Datei index.html und der Ordner assets muessen direkt auf der obersten Ebene des Repositorys liegen.
+5. Nach dem Commit aktualisiert GitHub Pages die Website automatisch. Ggf. 1-3 Minuten warten und die Seite mit Strg+F5 neu laden.
+
+Soll-Struktur:
+/index.html
+/karriere.html
+/ueber-uns.html
+/stevens-healthy-shots.html
+/ludtis-lunchbox.html
+/kuebelbauer-ludti.html
+/praesentation-sl.html
+/assets/style.css
+/assets/script.js
+/assets/img/...
